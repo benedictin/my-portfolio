@@ -1,0 +1,110 @@
+.container{
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    padding-left: 70px; 
+    padding-right: 70px; 
+    align-items: center;
+}
+h1{
+    font-size: 50px;
+}
+.logo{
+    width: 250%;
+}
+.texte{
+    width: 40%;
+    color: white;
+
+}
+.download{
+    margin-top: 40px;
+}
+
+.download-button{
+    background-color: white;
+    text-decoration: none;
+    color: gray;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.download:hover .download-button{
+    background-color: #6c63ff;
+    color: white;
+}
+.wrapper{
+   
+}
+.wrapper-title{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+}
+hr{
+    width: 90%;
+    border-color: #102235;
+    margin-top: 50px;
+   
+}
+.containe {
+     /* Full width */
+    background-color: #ddd; /* Grey background */
+  }
+.skills{
+    padding-left: 70px; 
+    padding-right: 70px; 
+}
+.skills{
+    color: white;
+}
+.skill {
+    text-align: right; /* Right-align text */
+    padding-top: 1px; /* Add top padding */
+    padding-bottom: 1px; /* Add bottom padding */
+    color: white; /* White text color */
+}
+  
+.html {
+    width: 90%; background-color:#2196F3;} /* Green */
+.css {width: 80%; background-color: #2196F3;} /* Blue */
+.js {width: 65%; background-color: #2196F3;} /* Red */
+.react{width: 70%; background-color: #2196F3;}
+
+.icons{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+.icons i{
+    margin: 4px;
+    border: 1px solid #1f3851;
+    background-color: #1f3851;
+    padding: 8px;
+    border-radius: 10px;
+    
+}
+.navigation-link{
+    text-decoration: none;
+}
+.icons i:hover{
+    background-color: #102235;
+}
+@media (max-width: 922px) {
+   
+   .container{
+    display: block;
+    
+   }
+   .logo{
+    width: 100%;
+   }
+   .texte{
+    width: 100%;
+   }
+}
