@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/benedictin/my-portfolio/static/css/main.a82bc6cf.css",
+    "main.js": "/benedictin/my-portfolio/static/js/main.45056713.js",
+    "static/js/787.2dcca737.chunk.js": "/benedictin/my-portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/benedictin/my-portfolio/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/bootstrap-icons.woff2?": "/benedictin/my-portfolio/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
+    "static/media/developer-dark.3f07bd13.svg": "/benedictin/my-portfolio/static/media/developer-dark.3f07bd13.3f07bd13e2bd324f87466260088da040.svg",
+    "index.html": "/benedictin/my-portfolio/index.html",
+    "main.a82bc6cf.css.map": "/benedictin/my-portfolio/static/css/main.a82bc6cf.css.map",
+    "main.45056713.js.map": "/benedictin/my-portfolio/static/js/main.45056713.js.map",
+    "787.2dcca737.chunk.js.map": "/benedictin/my-portfolio/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a82bc6cf.css",
+    "static/js/main.45056713.js"
+  ]
+}
